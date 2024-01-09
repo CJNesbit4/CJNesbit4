@@ -1,6 +1,6 @@
 -  Hi, I’m @CJNesbit4
 -  I’m interested in mathematical programming
--  I’m currently learning computer science through Sinclair Community College
+-  I’m currently learning Computer Science and Chemical Engineering through Sinclair Community College
 -  How to reach me: cjnesbit4@gmail.com
 
 <!---
